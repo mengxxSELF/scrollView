@@ -25,21 +25,21 @@ const dataList = [
   {
     anchor: {
       name: '暗黑料理',
-      avatar: 'https://avatars0.githubusercontent.com/u/20737114?v=3&u=2569dd145b519f0bacc3874665e9dde45129c346&s=200'
+      avatar: 'https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67'
     },
     uid: 1234
   },
   {
     anchor: {
       name: '暗黑料理',
-      avatar: 'https://avatars0.githubusercontent.com/u/20737114?v=3&u=2569dd145b519f0bacc3874665e9dde45129c346&s=200'
+      avatar: 'https://react-china.org/uploads/default/38/c4b96a594bd352e0.png'
     },
     uid: 123
   },
   {
     anchor: {
       name: '暗黑料理',
-      avatar: 'https://avatars0.githubusercontent.com/u/20737114?v=3&u=2569dd145b519f0bacc3874665e9dde45129c346&s=200'
+      avatar: 'https://facebook.github.io/react/img/logo_og.png'
     },
     uid: 12
   }
