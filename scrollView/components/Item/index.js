@@ -62,13 +62,11 @@ export default class CommendItem extends Component {
   }
 
   openLive () {
-    let {props} = this
-    props.openLivePlay(props)
+    console.log('打开live直播间')
   }
 
   openProfile () {
-    let {props} = this
-    props.openUserPage(props)
+    console.log('进入个人主页')
   }
 
   // 点击取消的X按钮
